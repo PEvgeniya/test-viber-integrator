@@ -1,0 +1,33 @@
+{
+  "name": "viber-msg",
+  "version": "1.0.0",
+  "description": "viber-bot",
+  "main": "index.js",
+  "type": "commonjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PEvgeniya/Viber-msg.git"
+  },
+  "author": "PEvgeniya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PEvgeniya/Viber-msg/issues"
+  },
+  "homepage": "https://github.com/PEvgeniya/Viber-msg#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "heroku": "^7.54.0",
+    "ngrok": "^4.0.1",
+    "request": "^2.88.2",
+    "typescript": "^4.3.2",
+    "viber-bot": "^1.0.16",
+    "winston": "^3.3.3",
+    "winston-console-formatter": "^1.0.0-beta.3"
+  },
+  "devDependencies": {
+    "@types/node": "^15.6.1"
+  }
+}
